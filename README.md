@@ -35,4 +35,4 @@ Abdul Kalam said:
 > # _Dream!!!
 
 I think you should use an
-`<addr>` element here instead.
+`<flag>` element here instead.

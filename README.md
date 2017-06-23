@@ -22,5 +22,5 @@ __hello
 Format: ![Alt Text](url) 
 
 ![](/downloads/apple.jpeg)
-Format: ![Alt Text](https://image.freepik.com/free-icon/apple-logo_318-40184.jpg)
+![Alt Text](https://image.freepik.com/free-icon/apple-logo_318-40184.jpg)
   

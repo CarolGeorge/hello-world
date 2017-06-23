@@ -15,8 +15,8 @@ __hello
 * Bonjour
 
 1. World
-  1. India
-  1. America
+   1. India
+   1. America
 
 ![GitHub Logo](/images/logo.png)
 Format: ![Alt Text](url) 

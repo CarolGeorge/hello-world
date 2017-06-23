@@ -26,3 +26,6 @@ Format: ![Alt Text](url)
  
  http://github.com - automatic!
 [GitHub](http://github.com)
+
+https://www.apple.com/in/ - automatic!
+[Apple](https://www.apple.com/in/)

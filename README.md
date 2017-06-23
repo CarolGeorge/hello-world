@@ -29,3 +29,7 @@ Format: ![Alt Text](url)
 
 https://www.apple.com/in/ - automatic!
 [Apple](https://www.apple.com/in/)
+
+Abdul Kalam said:
+> Youngsters!!!
+> # _Dream!!!

@@ -21,6 +21,6 @@ __hello
 ![GitHub Logo](/images/logo.png)
 Format: ![Alt Text](url) 
 
-![Apple logo](/downloads/apple.jpeg)
+![](/downloads/apple.jpeg)
 Format: ![Alt Text](https://image.freepik.com/free-icon/apple-logo_318-40184.jpg)
   

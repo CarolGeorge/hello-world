@@ -23,4 +23,6 @@ Format: ![Alt Text](url)
 
 ![](/downloads/apple.jpeg)
 ![Alt Text](https://image.freepik.com/free-icon/apple-logo_318-40184.jpg)
-  
+ 
+ http://github.com - automatic!
+[GitHub](http://github.com)

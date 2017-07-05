@@ -8,11 +8,11 @@ const char *p = s;
 return (p - s);
 }
 
-char *my_strcpy(char *t, char *s)
+char *my_strcpy(char *h, char *s)
 
 {
-char *p = t;
-while (*t++ = *s++)
+char *p = h;
+while (*h++ = *s++)
 ;
 return p;
 
